@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title=👾Davin👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
@@ -28,11 +28,9 @@
  
 </details>
 
-### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
 ## NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS
 </div>
 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
@@ -41,14 +39,13 @@ Siapin alat dan bahannya.
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
 > jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
+> penyimpanan yang memadai siapin 1-2gb
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini official dibuat saya sendiri Davin
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
@@ -97,26 +94,18 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Pokemon                          |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
-|       ✅       | 18+.                             |
+                             
 |                   MORE  Fitur                     |
 
 Ket: Aktiv 24 jam
 
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
+## SOSIAL MEDIA Gue <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+
+* [`Youtube Gue`]Azdavin
+* [`Instagram gue`]davinwilson5
+* [`WhatsApp gue `]082341357314
+## Enjoy<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
-
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-* [`Alfbot`](https://github.com/alfiansx/alfbot)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 

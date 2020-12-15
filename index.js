@@ -18,12 +18,11 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '👾AR15BOT👾',
-    instagram: 'https://instagram.com/_sadboy.ig',
-    nomer: 'wa.me/6285722553839',
+    A187: '👾Davin👾',
+    instagram:Davinwilson5
+    nomer: 'wa.me/6282341357314',
     aktif: '24 JAM',
-    youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg',
-    whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs',
+    youtube: ' https://youtu.be/gyYyxVw4tiI    ',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
@@ -71,7 +70,7 @@ const {
     wiki,
     ytdl,
     bucin,
-    cersex,
+    ,
     cerpen,
     puisi1,
     puisi2,
@@ -94,7 +93,7 @@ const {
     ytmp3,
     ssweb,
     infogempa,
-    indohot,
+    ,
     loli,
     ttp,
     map,
@@ -582,7 +581,7 @@ case 'gay':
                    console.log(err)
                })
            break
-  case 'indohot':
+  case '':
            indohot()
                .then(data => {
                    const { judul, genre, durasi, url } = data
@@ -648,7 +647,7 @@ case 'filmanime':
                    console.log(err)
                })
            break
-     case 'cersex':
+     case '':
            cersex()
                .then(data => {
                    const { result } = data
